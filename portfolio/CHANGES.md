@@ -13,7 +13,7 @@ Files
 |---|---|---|
 | 1 | "ஒரே பேஜ்ல முடிச்சுருங்க" — finish it in one page | 5 pages condensed to 1 |
 | 2 | He is based in Dubai | "Based in — Dubai, U.A.E." added to the header |
-| 3 | "Advocate, over 20 years" is correct; 2004 is correct | Kept 20+ years / enrolled 2004 |
+| 3 | "நாம தான் 22 வருஷம் ஆயிடுச்சுல்ல" — 22 years in practice | Header reads **22 Years**; Profile reads "22 years of legal practice, enrolled in 2004" |
 | 4 | Family: Father Veerappan, Mother Rajathi, Grandfather Karuppan — names only, nothing more | Reduced to the three names; the "Tamil Teacher, Govt. Higher Sec. School — Late" line removed |
 | 5 | Don't make "Advocate / Madras High Court" so big | Court shown once, as a light sub-line under the name |
 | 6 | Enrollment number should sit lightly to the side, not get its own big column | Now a small italic line under the name |
@@ -25,7 +25,7 @@ Files
 | 12 | Happy Tech does Rehab; "Business Association" is the wrong label | Happy Tech SDN. BHD. — Rehabilitation Services |
 | 13 | The separate "Rehab" entry is wrong | Removed; Rehab now sits under Happy Tech only |
 | 14 | "நான் டாக்டர்ரேட் ஆகல இன்னும்" — not a doctorate yet, still studying | Ph.D. marked **PURSUING** |
-| 15 | Not "America University" — put Florida | Now "Florida, United States of America" |
+| 15 | Not "America University" — put Florida | **Yoga University of the Americas — Florida, U.S.A.** |
 | 16 | Order: B.L. first, then M.A., then the Ph.D. being studied | Education reordered B.L. → M.A. → Ph.D. (last) |
 | 17 | Portfolio Snapshot not needed | Removed |
 | 18 | Don't repeat the name / the TV monogram again | Monogram removed; name appears once |
@@ -35,10 +35,10 @@ Files
 | 22 | Don't repeat the Professional Summary at the end | Final summary block removed; one short Profile only |
 | 23 | Remove the last block | Removed |
 
-## One item needs the client's confirmation
+## Follow-up round
 
-He said he would check the university name himself:
-*"அது என்ன என்ன இருக்கு அதுல பாருங்க... நான் பாத்துக்கிறேன்."*
-
-The Ph.D. line currently reads **"Ph.D. in Disability Studies — Florida, United States of America"**.
-Once he confirms the exact university name, it goes on that line.
+| Client's point | What changed |
+|---|---|
+| Say 22 years, not 20+ | Header credential reads **22 Years**; Profile opens "Tamilamudhu has 22 years of legal practice, enrolled in 2004." |
+| Drop "Advocate" from the top — this is a **business profile**, not a lawyer's CV | The identity line under the name is now "Madras High Court · Tamil Nadu, India". "Panel Advocate — State Bank of India" is kept as a named credential, which the client approved in the audio. |
+| Name the university for the Ph.D. being pursued | "Ph.D. in Disability Studies **PURSUING** — Yoga University of the Americas — Florida, U.S.A." |
