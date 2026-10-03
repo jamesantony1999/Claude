@@ -60,3 +60,16 @@ rather than an advocate's portfolio. The hierarchy was inverted:
 "Madras High Court" no longer appears anywhere in the document (verified against the rendered PDF).
 The Panel Advocate credential, practice areas and enrollment number are retained, de-emphasised
 to a single block, consistent with the client's note that the legal side should stay light.
+
+## Round 4 — client mark-ups
+
+| Client's point | What changed |
+|---|---|
+| Remove the highlighted line at the top | The italic "Innoaccess FZE — Garments ∙ Pharma ∙ Cars ∙ Logistics" line under the name is gone. The sectors still appear once, under Innoaccess FZE in Business Interests. |
+| "Business Owner" → "Business Man" | Header now reads **BUSINESS MAN** |
+| Profile should start with the initial | Opens **"V. Tamilamudhu is a business man based in Dubai…"** |
+| Add "in India" after State Bank of India | Last line now ends "…a Panel Advocate for the State Bank of India, in India." |
+| Family order: Mother, Father, Grandfather | Reordered — Rajathi, Veerappan, Karuppan |
+
+The portrait and name were enlarged slightly to take up the space the removed line left,
+so the body card keeps its spacing.
